@@ -1,0 +1,1 @@
+var json_park_prirode_17 = {"type":"FeatureCollection","name":"park_prirode_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"10","naziv":"Hercegovina"},"geometry":{"type":"Point","coordinates":[17.946360542127266,43.088843201352951]}}]}

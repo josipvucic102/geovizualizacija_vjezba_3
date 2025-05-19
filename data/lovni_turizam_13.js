@@ -1,0 +1,1 @@
+var json_lovni_turizam_13 = {"type":"FeatureCollection","name":"lovni_turizam_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"6"},"geometry":{"type":"Point","coordinates":[17.972908004562637,43.084791087984286]}}]}

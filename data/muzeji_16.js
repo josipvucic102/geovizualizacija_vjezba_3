@@ -1,0 +1,1 @@
+var json_muzeji_16 = {"type":"FeatureCollection","name":"muzeji_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"9","naziv":"Muzej revolucije"},"geometry":{"type":"Point","coordinates":[17.958343807215236,43.083415684376348]}}]}
